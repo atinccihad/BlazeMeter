@@ -1,0 +1,3 @@
+Label Id,Element Label,# Samples,Avg. Response Time (ms),Avg. Hits/s,90% line (ms),95% line (ms),99% line (ms),Min Response Time (ms),Max Response Time (ms),Avg. Bandwidth (KBytes/s),Error Percentage,Has Label Passed Thresholds,Concurrency
+b5c7aed7cd2a308523e7d2847b7815909e864b2fd9c4ea88b00d35adb2ecdfd7,ALL,20024,291.31,16.77,366,419,599,201,2741,4720.79,0,,5
+8fd8c961ee152d849bd4c87186749f72eabf55b4bc8bb76618aeb6aee011a05c,http://www.blazedemo.com,20024,291.31,16.77,366,419,599,201,2741,4720.79,0,,5
